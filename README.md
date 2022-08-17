@@ -1,5 +1,5 @@
 # Live Project on Plant HomePage
-    - My Third Project on HTML and CSS
+    - My Sixth Project on HTML and CSS
     - Selectors using ID
     - Backgrounds
     - Margins
