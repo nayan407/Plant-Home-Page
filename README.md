@@ -1,4 +1,4 @@
-# Live Project on Law Home Page
+# Live Project on Plant HomePage
     - My Third Project on HTML and CSS
     - Selectors using ID
     - Backgrounds
